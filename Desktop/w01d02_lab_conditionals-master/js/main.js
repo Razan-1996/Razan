@@ -48,4 +48,4 @@ if (userInput == 1 && computerNum ==3) || (userInput ==3 && computerNum == 1)
 if (userInput == 2 && computerNum == 3) || (userInput == 3 && computerNum == 2)
 {
     console.log("rock wins")
-}
+} 
