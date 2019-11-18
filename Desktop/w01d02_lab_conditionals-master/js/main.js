@@ -16,6 +16,7 @@ The following numbers represent each input
 
  Start by writing a Pseudocode to ensure you have your logic right before writing anycode.
 */
+play
 
 let userInput = prompt('Enter a number: 1 - Paper, 2 - Scissor, 3 - Rock')
 let computerNum = Math.floor(Math.random() * 3) + 1;
